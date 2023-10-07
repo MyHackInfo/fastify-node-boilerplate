@@ -1,0 +1,16 @@
+{
+  "name": "fastify-node-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "myhackinfo",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.23.2"
+  }
+}
